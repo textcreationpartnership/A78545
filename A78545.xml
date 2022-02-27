@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scourge for a denn of thieves.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78545</idno>
+            <idno type="STC">Wing C1903</idno>
+            <idno type="STC">Thomason E986_23</idno>
+            <idno type="STC">ESTC R207819</idno>
+            <idno type="EEBO-CITATION">99866847</idno>
+            <idno type="PROQUEST">99866847</idno>
+            <idno type="VID">168621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168621)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scourge for a denn of thieves.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. C. for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published anonymously. By Peter Chamberlen.</note>
+                  <note>Annotation on Thomason copy: "June. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>"A proposal to raise money and pay off the army." -Halbett &amp; Laing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168621:1" rendition="simple:additions"/>
+            <p>A SCOURGE FOR A DENN OF THIEVES.</p>
+            <p>Maſter, is it <hi>I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mar.</hi> 14, 19. <hi>Matt.</hi> 26.22.25.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by J.C. for the Author, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168621:2"/>
+            <pb n="3" facs="tcp:168621:2"/>
+            <head>A SCOVRGE FOR A Denn of Thieves.</head>
+            <p>DO we live in an Age that it is a ſhame to ſpeak the Truth, or Danger to Proclaim the Glory of God?</p>
+            <p>Let the Children of him that was a Murtherer from the beginning, and a Lyar, (<hi>Joh.</hi> 8.44.) Let them that make a Lye, believe a Lye, (<hi>Rev.</hi> 22.15.) Let them that believe a Lye love a Lye, 2 <hi>Theſſ.</hi> 2.11.</p>
+            <p>The Truth is, JESUS CHRIST IS THE ONLY ONE LAW-GIVER.</p>
+            <p>To others may be Legiſlative Powers many; 1 <hi>Cor.</hi> 8.5, 6.) BUT TO US THERE IS BUT ONE LAW-GIVER, who is able to ſave and to deſtroy. (<hi>Ja.</hi> 4.12. <hi>Iſa.</hi> 33.22.</p>
+            <p>
+               <hi>Eliah</hi> was but one againſt 450. 1 <hi>Kings</hi> 18.22. And <hi>Micajah</hi> but one againſt about 400, 1 <hi>Kings</hi> 22.6, 8.13, 16.</p>
+            <pb n="4" facs="tcp:168621:3"/>
+            <p>Behold, I <hi>Peter Chamberleu,</hi> Doctor in Phyſick, do once again bear Witneſs, That if the Laws of God be ſet up, in the Name and Title of the Laws of God: And the corrupt Laws of our Heathen and Antichriſtian Fore-fathers, and of our more corrupt Lawyers and Courtiers be aboliſhed; There ſhall be more equal Diſtribution of Juſtice, even concerning <hi>Meum &amp; Tuum</hi> (beſides other Matters) in one year than hath been done theſe 500 years by Kings, Parlia<g ref="char:EOLhyphen"/>ments, Councils, Armies, or People, by all the Laws of men; and all People ſhall reſt ſatisfied.</p>
+            <p>But if men go on to prefer Man before God, and to pre<g ref="char:EOLhyphen"/>fer the Laws of Men before the Laws of God; I do hereby Teſtifie, That my Soul is guiltleſs of the OATH that lies upon the whole Land, wherein both Parliament, Army, and People were engaged.</p>
+            <p>I ſaid in Print, If Publick Goods and Lands were ſold, the Parliament would remain in Debt: and the Souldiers unpaid, AND IT IS SO.</p>
+            <p>I ſaid in writing, That God would Chaſtiſe the Parlia<g ref="char:EOLhyphen"/>ment, AND IT WAS SO; for this Men thought me Mad.</p>
+            <p>I loſt four years Attendance on the Parliament for the Publick Good; yet I had many Friends amongſt them. I loſt both Houſes, Lands and Goods by Committees, and Officers of Parliament and Protector: I loſt the Rewards &amp; Wages due to me from the late King; yet have done ſer<g ref="char:EOLhyphen"/>vice unto all without Recompence. I ask none, but the fruit of mine own Labours, which is not yet granted. 'TWAS GOD MADE <hi>ABRAHAM</hi> RICH. <hi>Gen.</hi> 14.23. &amp; 14.1.</p>
+            <p>LET MY VOICE AT LAST BE HEARD.</p>
+            <p>We ſhall not need to envy <hi>Holland</hi> for Trade, nor the Indies for Wealth.</p>
+            <p>There need be no complaining in the ſtreets, nor Soul<g ref="char:EOLhyphen"/>diers want Pay.</p>
+            <p>We ſhall no more feel the oppreſſion of Taxes, Aſſeſ<g ref="char:EOLhyphen"/>ments, or Exciſe, but there is Remedy for all; And 500000 li. at Stake for performance: If yet we forbear
+<pb n="5" facs="tcp:168621:3"/>contriving the Publick ſtock into private Pockets; and ſet up a ſufficient employment for all Poor: And make an Everlaſting, Honourable, Well-grounded Peace, with the Uuited Provinces, by countermining the Jeſuits of both Nations, and advancing Trade; All which, may well be done: And for which the Pawn of 500000 li. ſhall be laid down (which is more than King or Parliament, Protector or Committee ever laid down for their fidelity, without the taxing of the People; though they have been truſted with Millions and Millions, and the Work no forwarder than you ſee this day.</p>
+            <p>Nevertheleſs, Shall faith be found on Earth? (<hi>Luk</hi> 18.8.) or Engliſh Lawyers deſtroy Engliſh Laws?<q> Thy King<g ref="char:EOLhyphen"/>dom come (O Lord) Thy Will be done on Earth, as it is in Heaven. <bibl>(<hi>Matt.</hi> 6.10.</bibl>
+               </q>
+            </p>
+            <p>
+               <hi>Salus Populi Suprema lex</hi>
+            </p>
+            <p>If the Parliament, whom the Lord hath hitherto Honou<g ref="char:EOLhyphen"/>red with the Authority, or the Army to whom God hath vouchſafed the Power of the Reformation we now enjoy, are pleaſed to take this Scourge into their hands, and grant what tends thereto, without injury to any: I will undertake upon my Life, to bring thoſe that will lay down the 500000 pound, and engage much more, that the things herein men<g ref="char:EOLhyphen"/>tioned ſhall be performed in every Punctilio; But if they will neither do it, nor accept of it, nor ſuffer it to be done, then for certain, God will overturn, overturn, overturn, till he come to whom the Right is.</p>
+            <p>I am not ignorant how difficult that work muſt be, which hath been the Engagement of Parliament, Army and Pro<g ref="char:EOLhyphen"/>tector: yet not effected.</p>
+            <p>I am not Ignorant what ſum of Money muſt be raiſed yearly, to keep the Officers and Souldiers, and Navy, in conſtant Pay and maintenance.</p>
+            <p>I am not ignorant what a vaſt ſum it is to offer 500000 li. Advance.</p>
+            <p>I am very ſenſible how highly Men in Power will Reſent
+<pb n="6" facs="tcp:168621:4"/>it, if I ſhould fail of my undertaking, and all men before<g ref="char:EOLhyphen"/>hand will give out their ſeveral Verdicts.</p>
+            <p>I am very ſenſible, how my life is expoſed to the fury of the Souldiers, if they want their Pay.</p>
+            <p>I am no leſſe ſenſible, that I cannot eſcape the fury of the People, if once they have Taſted the ſweets of Free<g ref="char:EOLhyphen"/>dom, and be again betrayed or intangled into Bondage.</p>
+            <p>Nor am I ignorant how contemptible the thing it ſelf may be for my ſake, Though, give me leave to ask one Queſtion, Whether, if I had fed as fat upon the Publick purſe and kept back mine own, and could as eaſily diſpence with Engagments as ſome Wiſe men of this Nation, who were once leſſe than my ſelf, I might not have been as wiſe, and as ſoon believed as they?</p>
+            <p>But I am very well aſſured, that this very Propoſition will be my Witneſſe in the Day of the Lord; that I have been faithful and no Lyar, but have ſpoken the Truth from my heart, and have not hid my Talent in the day of Tryal, though I have long kept ſilence, waiting when others, more near the Helm, would accompliſh the Work.</p>
+            <p>Therefore, if accepted, I deſire all Treaties may be in Writing and Printed that no miſpriſions might diſadvan<g ref="char:EOLhyphen"/>tage the Good in ended; and that all the World may Wit<g ref="char:EOLhyphen"/>neſs, whether the defect ſhall ly in me or others.</p>
+            <div type="postscript">
+               <head>The Poſtſcript.</head>
+               <p>VVHilſt the Leaden Letter walks ſlowly to the Preſs, I hear of JEALOUSY ſtept in between the Parliament and Army, Commiſſionating her two Favorites (the inviſible Jeſuite, and long incenſed Malignant) to Divide both <hi>Them</hi> and their <hi>Spoil. Machiavel</hi> is admi<g ref="char:EOLhyphen"/>red for his Learned Dictate; of Hypocryſie, and ſhe walks
+<pb n="7" facs="tcp:168621:4"/>confidently both into Churches, and Councils of State in all Countries, till at laſt advanced to Power, ſhe grows weary of her Mask and diſcovers her Face; But JEALOU<g ref="char:EOLhyphen"/>SY inſpir'd with Fatal Prophetick Fire, conſumes the Thrones of Kings, and Coins their Crowns into <hi>Thornes:</hi> making the boldeſt Tyrants fearful to enjoy what once they longed for, and loſe what through Labour, Blood and Perjury they have obtained to.</p>
+               <p>Oft with prophain Feet ſhe Tramples on the chaſteſt Beds, and cruelly converts them into Graves, making the deareſt friends the greateſt enemies.</p>
+               <p>O Jealouſy, What haſt thou done? Rather, what haſt thou not done in <hi>England?</hi> But the wiſdom of God is above all.</p>
+               <p>'Tis Jealouſy doth threaten the Souldier a diſbanding, to provoke his Power. 'Tis Jealouſy reminds the Parliament of their long interruption to inflame their Authority. 'Tis Jealouſy bids the People remember their manifold unjuſt Plunders and Taxes to affright them with a decay of Trade, Poverty and manifold Miſeries, till that (deſpairing) they hearken not to <hi>Moſes,</hi> though he fore-tell their De<g ref="char:EOLhyphen"/>liverance.</p>
+               <p>I know my ſelf deſpicable and deſpiſed. And many had rather periſh than be ſaved by my means, though forced to follow ſome of my former Counſels.</p>
+               <p>I know the Work Great, Difficult, and Terrible.</p>
+               <p>Yet, Oh yet! let <hi>Aaron's</hi> Cenſer divide between the Dead and the Living; What is paſt cannot be Amended. Who can recal yeſterday?</p>
+               <p>The noiſe of 500000 li. may fright all the Uſurers in Town, leſt I mean them; and turn the Scriveners (as once) a grazing.</p>
+               <p>The noiſe of maintaining an Army of 30000 Men, and a Navy of 100 ſail of Ships, and maintaining a ſwarm of Poor beſides, ſhuts up the Tradeſmans ſhop, and locks the Mer<g ref="char:EOLhyphen"/>chants Coffer for fear leſt I mean them.</p>
+               <p>But to reſolve the doubt; Doth any think it impoſſi<g ref="char:EOLhyphen"/>ble for 500 noble, well-minded, godly men in <hi>England,</hi> each to advance 1000 li. a piece, to Redeem Themſelves
+<pb n="8" facs="tcp:168621:5"/>and their Poſterity eternally from ſlavery and Taxes, and be repaid in time their own again? Or do they ſuppoſe, All my numerous acquaintance ſo inconſiderable, that I know not where to have the ſum, ſhould the number be wanting? I have already 50 Worthies in <hi>London,</hi> but Doubts and their former ſufferings, have cautioned them as yet to conceal their Names, leſt a Snake may be in the Graſſe and a Hook in the Bait: There hath been ſuch fiſhing for Money theſe many years.</p>
+               <p>Were it impoſſible to unite theſe 500 Worthies in Counſel (when this Paper hath purchaſed a good report) that they may firſt debate the weightieſt matters: And ſo offer them to the Parliament and Army, for a better Stamp of Power and Authority. Then Treat with Agitators for all the ſeveral Regim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts of Souldiers, to condition their Pay, employment and maintenance; And with Truſtees for all the ſeveral Shires, about employing the Poor, and taking off all Taxes?</p>
+               <p>Shall the induſtry of <hi>Holland</hi> maintain a conſtant Army by Land, relieve All commers, wellcome All ſtrangers, ſet out a formidable Navy at Sea, Oppoſe and weary the richeſt Kings in <hi>Europe,</hi> having neither Fire, Water, Earth, Aire, Iron, Wood, nor Stone, &amp;c. to boaſt of? And ſhall we fear to maintain our ſelves, who have all theſe in abun<g ref="char:EOLhyphen"/>dance!</p>
+               <p>MAN ONELY MAKES MAN MISERA<g ref="char:EOLhyphen"/>BLE. 'Tis God makes all things good. I have ſaid. Nor will I further Court Men to their happineſs:</p>
+               <p>Though neither Parliament, nor Army, nor yet the People will believe me, Shall they hate me for my good will? My Treaſure is above. God is my exceding great Reward.</p>
+               <p>O <hi>ENGLAND!</hi> 
+                  <q>SIN NO MORE LEST A WORSE THING COME UNTO THEE. <bibl>Joh. 5.14.</bibl>
+                  </q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
